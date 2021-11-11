@@ -6,7 +6,8 @@
 
 
 Visualizing the input 
-"python <code>"
+" python <code> "
+  
 Define a function to load an image and limit its maximum dimension to 512 pixels.
 
 In [ ]:
