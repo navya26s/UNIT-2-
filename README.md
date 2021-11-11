@@ -6,7 +6,7 @@
 
 
 Visualizing the input 
-'''python
+```python
   
   #Define a function to load an image and limit its maximum dimension to 512 pixels.
 
@@ -44,4 +44,4 @@ imshow(content_image, 'Content Image')
 
 plt.subplot(1, 2, 2)
 imshow(style_image, 'Style Image')
-'''
+```
