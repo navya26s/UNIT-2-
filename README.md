@@ -6,10 +6,7 @@
 
 
 Visualizing the input 
-" python <code> "
-  
-Define a function to load an image and limit its maximum dimension to 512 pixels.
-
+" python < code > " Define a function to load an image and limit its maximum dimension to 512 pixels.
 In [ ]:
 def load_img(path_to_img):
   max_dim = 512
