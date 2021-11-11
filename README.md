@@ -7,8 +7,8 @@
 
 Visualizing the input 
 " python <code> " Define a function to load an image and limit its maximum dimension to 512 pixels.
-In [ ]:
-def load_img(path_to_img):
+
+  In [ ]:def load_img(path_to_img):
   max_dim = 512
   img = tf.io.read_file(path_to_img)
   img = tf.image.decode_image(img, channels=3)
