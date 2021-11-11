@@ -1,3 +1,10 @@
+# Adding an 'A' to STEM
+
+
+## Deep Dream Generator
+
+
+
 Visualizing the input 
 "python <code>"
 Define a function to load an image and limit its maximum dimension to 512 pixels.
