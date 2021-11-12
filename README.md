@@ -73,3 +73,6 @@ plt.subplot(1, 2, 2)
 imshow(style_image, 'Style Image')
 ```
 [code extracted from Tensor Flow](https://www.tensorflow.org/tutorials/generative/style_transfer)
+
+### Application of Deep Dream Generator
+
