@@ -9,11 +9,11 @@ While, STEAM stands for science, technology, engineering, **arts** and mathemati
 
 ![image](https://github.com/navya26s/UNIT-2-/blob/main/steam.png)
 
-Arts play an integral part in our lives. They offer scope of new discoveries while opening doors to creativity and innovation.  
 
-However, there remain certain soft skills a computer simply cannot replicate in the workplace: teamwork, cooperation, creativity and adaptation to change, to name a few. These changes, as well as the growing emphasis on soft skills across industries and roles, are creating the need for curricula that integrate STEM with the arts. By integrating the arts into STEM, STEAM-focused curricula incorporate the study of the humanities, language arts, dance, drama, music, visual arts, design, new media and more.
 
-When looking at STEM vs. STEAM, the difference lies in the way they approach scientific concepts. STEM focuses explicitly on the hard scientific, technological, engineering or mathematical skills to drive progress or create a new concept. In STEAM curricula, per The Conversation, students leverage both hard and soft skills to solve problems. 
+Stem, particularly compting, plays an intergral role today's education system, it not only builds technical, logical, analytical and scientific skills and thinking but also develops a quick processing mind. However, there remain certain soft skills a computer simply cannot replicate in the workplace: teamwork, cooperation, creativity and adaptation to change, to name a few. These changes, as well as the growing emphasis on soft skills across industries and roles, are creating the need for curricula that integrate STEM with the arts. By integrating the arts into STEM, STEAM-focused curricula incorporate the study of the humanities, language arts, dance, drama, music, visual arts, design, new media and more. 
+When looking at STEM vs. STEAM, the difference lies in the way they approach scientific concepts. STEM focuses explicitly on the hard scientific, technological, engineering or mathematical skills to drive progress or create a new concept. In STEAM curricula, per The Conversation, students leverage both hard and soft skills to solve problems. Thereby provng how arts play an integral part in our lives. They offer scope of new discoveries while opening doors to creativity and innovation.   
+
 
 [reffered website link](https://www.ucf.edu/online/engineering/news/comparing-stem-vs-steam-why-the-arts-make-a-difference/)
 
