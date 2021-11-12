@@ -6,7 +6,7 @@
 STEM stands for science, technology, engineering, and mathematics.
 STEAM stands for science, technology, engineering, arts and mathematics.
 
-![image](https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2036.png)
+![image](
 
 Arts play an integral part in our lives. They offer scope of new discoveries while opening doors to creativity and innovation.  
 
