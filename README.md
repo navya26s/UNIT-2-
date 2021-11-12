@@ -19,8 +19,7 @@ When looking at STEM vs. STEAM, the difference lies in the way they approach sci
 
 ## Art X Science
 
-STEAM takes STEM one step further by emphasizing the arts, taking inspiration from the field and applying its concepts in cross-discipline learning that supports creativity in science, mathematics and more. STEAM focuses on teaching students to form connections between a variety of subjects in order to get the most out of learning about any subject, from robotics and coding to reading and music.  
-In a world where many arts programs are at risk in favor of STEM education, STEAM seeks to keep these subjects closely intertwined. 
+STEAM takes STEM one step further by emphasizing the arts, taking inspiration from the field and applying its concepts in cross-discipline learning that supports creativity in science, mathematics and more. STEAM focuses on teaching students to form connections between a variety of subjects in order to get the most out of learning about any subject, from robotics and coding to reading and music. In a world where many arts programs are at risk in favor of STEM education, STEAM seeks to keep these subjects closely intertwined. 
 
 [reffered website link](https://sphero.com/blogs/news/stem-vs-steam)
 
