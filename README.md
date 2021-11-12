@@ -1,6 +1,19 @@
 # Adding an 'A' to STEM
+> I have no hesitation in saying we need to add the letter ‘A’…an education devoid of arts… is an empty, half-brain kind of education. - Howard Gardner, Harvard University education professor
+
+
+STEM stands for science, technology, engineering, and mathematics.
+STEAM stands for science, technology, engineering, arts and mathematics.
+
+Arts play an integral part in our lives. They offer scope of new discoveries while opening doors to creativity and innovation.  
+
+However, there remain certain soft skills a computer simply cannot replicate in the workplace: teamwork, cooperation, creativity and adaptation to change, to name a few. These changes, as well as the growing emphasis on soft skills across industries and roles, are creating the need for curricula that integrate STEM with the arts. By integrating the arts into STEM, STEAM-focused curricula incorporate the study of the humanities, language arts, dance, drama, music, visual arts, design, new media and more.
+
+When looking at STEM vs. STEAM, the difference lies in the way they approach scientific concepts. STEM focuses explicitly on the hard scientific, technological, engineering or mathematical skills to drive progress or create a new concept. In STEAM curricula, per The Conversation, students leverage both hard and soft skills to solve problems. 
+
 
 ## Art X Science
+
 
 ## Deep Dream Generator
 Deep Dream is a program of computer vision that was created by one of Google’s engineers Alex Mordvintsev. This uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thereby formulating a Dream-like hallucinogenic appearance within deliberately over-processed images.
@@ -46,3 +59,4 @@ imshow(content_image, 'Content Image')
 plt.subplot(1, 2, 2)
 imshow(style_image, 'Style Image')
 ```
+[code extracted from Tensor Flow](https://www.tensorflow.org/tutorials/generative/style_transfer)
