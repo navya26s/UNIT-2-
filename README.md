@@ -84,7 +84,11 @@ I created a closed working circuit using a resister, jumper wires, a LED, a brea
 
 ![image](https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2036.png)
 
-I even tried super imposing two images together by chosing an image of the uno board with an image of my final lit LED set up at my preffered style effect to edit the image with, 
+I even tried superimposing two images together by chosing an image of the uno board with an image of my final lit LED set up as my preffered style effect to edit the image with.
 
 ![image](https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2037.png)
+
+## Reflection
+
+This was a fun learning experience even though I initially struggled finding my way through github and coding in general, once getting a hang of it, I really enjoyed the proces and found using the coding language very intruiging. The topic I chose slightly went beyond what we had done in class however, I tried to pick a topic that derieved from a class discussion of ' STEM vs STEAM'.
 
