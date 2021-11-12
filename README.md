@@ -3,13 +3,14 @@
 ## Art X Science
 
 ## Deep Dream Generator
+Deep Dream is a program of computer vision that was created by one of Google’s engineers Alex Mordvintsev. This uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thereby formulating a Dream-like hallucinogenic appearance within deliberately over-processed images.
 
-
+[link](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479)
 
 ### Visualizing the input 
 ```python
   
-  #Define a function to load an image and limit its maximum dimension to 512 pixels.
+  # Define a function to load an image and limit its maximum dimension to 512 pixels.
 
  def load_img(path_to_img):
    max_dim = 512
@@ -34,7 +35,7 @@ def imshow(image, title=None):
   if title:
     plt.title(title)
     
-#implementing the image
+# Implementing the image
 
 content_image = load_img(content_path)
 style_image = load_img(style_path)
