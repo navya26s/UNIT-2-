@@ -80,7 +80,6 @@ imshow(style_image, 'Style Image')
 #### Use of an Arduino
 
 I implemented the knowledge and experiences of making a simple LED circuit using an 'Arduino' and photgraphed the lit up LED. 
-I created this using a resister, jumper wires, a LED, a bread board and an UNO. 
-
-Then, I uploaded my images on the Deep Dream Generator and experimented with several presets to see the final outcomes. 
+I created this using a resister, jumper wires, a LED, a bread board and an UNO. Then, I uploaded my images on the Deep Dream Generator and experimented with several presets to see the final outcomes.
+![image](https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2036.png)
 
