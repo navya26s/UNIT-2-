@@ -77,4 +77,10 @@ imshow(style_image, 'Style Image')
 [code extracted from Tensor Flow](https://www.tensorflow.org/tutorials/generative/style_transfer)
 
 ### Application of Deep Dream Generator
+#### Use of an Arduino
+
+I implemented the knowledge and experiences of making a simple LED circuit using an 'Arduino' and photgraphed the lit up LED. 
+I created this using a resister, jumper wires, a LED, a bread board and an UNO. 
+
+Then, I uploaded my images on the Deep Dream Generator and experimented with several presets to see the final outcomes. 
 
