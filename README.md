@@ -1,5 +1,5 @@
 # Adding an 'A' to STEM
-> I have no hesitation in saying we need to add the letter ‘A’…an education devoid of arts… is an empty, half-brain kind of education. - Howard Gardner, Harvard University education professor
+> * " I have no hesitation in saying we need to add the letter ‘A’…an education devoid of arts… is an empty, half-brain kind of education." *  - Howard Gardner, Harvard University education professor
 
 
 STEM stands for science, technology, engineering, and mathematics.
