@@ -6,6 +6,7 @@
 STEM stands for science, technology, engineering, and mathematics.
 STEAM stands for science, technology, engineering, arts and mathematics.
 
+![] (https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2036.png)
 Arts play an integral part in our lives. They offer scope of new discoveries while opening doors to creativity and innovation.  
 
 However, there remain certain soft skills a computer simply cannot replicate in the workplace: teamwork, cooperation, creativity and adaptation to change, to name a few. These changes, as well as the growing emphasis on soft skills across industries and roles, are creating the need for curricula that integrate STEM with the arts. By integrating the arts into STEM, STEAM-focused curricula incorporate the study of the humanities, language arts, dance, drama, music, visual arts, design, new media and more.
