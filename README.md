@@ -11,6 +11,7 @@ Arts play an integral part in our lives. They offer scope of new discoveries whi
 However, there remain certain soft skills a computer simply cannot replicate in the workplace: teamwork, cooperation, creativity and adaptation to change, to name a few. These changes, as well as the growing emphasis on soft skills across industries and roles, are creating the need for curricula that integrate STEM with the arts. By integrating the arts into STEM, STEAM-focused curricula incorporate the study of the humanities, language arts, dance, drama, music, visual arts, design, new media and more.
 
 When looking at STEM vs. STEAM, the difference lies in the way they approach scientific concepts. STEM focuses explicitly on the hard scientific, technological, engineering or mathematical skills to drive progress or create a new concept. In STEAM curricula, per The Conversation, students leverage both hard and soft skills to solve problems. 
+
 [reffered website link](https://www.ucf.edu/online/engineering/news/comparing-stem-vs-steam-why-the-arts-make-a-difference/)
 
 
@@ -18,6 +19,7 @@ When looking at STEM vs. STEAM, the difference lies in the way they approach sci
 
 STEAM takes STEM one step further by emphasizing the arts, taking inspiration from the field and applying its concepts in cross-discipline learning that supports creativity in science, mathematics and more. STEAM focuses on teaching students to form connections between a variety of subjects in order to get the most out of learning about any subject, from robotics and coding to reading and music.  
 In a world where many arts programs are at risk in favor of STEM education, STEAM seeks to keep these subjects closely intertwined. 
+
 [reffered website link](https://sphero.com/blogs/news/stem-vs-steam)
 
 In a subject like Arts we time and again see concepts of other subjects, like mathematics.  Van Gogh made the ‘Starry Night’, a painting that combines artistic aesthetic appeal and dynamic brushwork combined with the application of mathematical concepts like the turbulent flow, angular perspectives and geometric proportions. This contributed in making it a better artwork as it added more value to the theme of conflict and chaos that he was trying to bring out through the artwork with the use of the spirals in the sky.
