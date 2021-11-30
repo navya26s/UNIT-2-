@@ -7,7 +7,7 @@ STEM stands for science, technology, engineering, and mathematics.
 
 While, STEAM stands for science, technology, engineering, **arts** and mathematics.
 
-![image](https://github.com/navya26s/UNIT-2-/blob/main/steam.png)
+![image](https://github.com/navya26s/UNIT-2-/blob/main/CREATIVE%20COMPUTING-05.png)
 
 
 
