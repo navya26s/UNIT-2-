@@ -32,6 +32,11 @@ Artists, for many centuries have used this combination in order to achieve brill
 Even in modern day, we have found a combination of design and computer science- one such example can be seen in a neural generato called **Deep Dream Generato**
 
 ## Deep Dream Generator
+
+![image](https://github.com/navya26s/UNIT-2-/blob/main/Screenshot%202021-11-30%20at%209.44.35%20PM.png)
+
+[Deep dream generator](https://deepdreamgenerator.com/) 
+
 Deep Dream is a program of computer vision that was created by one of Google’s engineers Alex Mordvintsev. This uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thereby formulating a Dream-like hallucinogenic appearance within deliberately over-processed images.
 
 [reffered website link](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479)
