@@ -82,7 +82,7 @@ imshow(style_image, 'Style Image')
 
 I created a closed working circuit using a resister, jumper wires, a LED, a bread board and an UNO. After several attempts of arranging the components in the requireed order, I was successfully able to light the LED. I then implemented this knowledge and experiences of making a simple LED circuit using an 'Arduino' and photgraphed the lit up LED. Finally,  I uploaded my image of the swtiched on set up on the Deep Dream Generator and experimented with several presets to see the final outcome.
 
-![image](https://github.com/navya26s/UNIT-2-/blob/main/Untitled_Artwork%2036.png)
+![image](https://github.com/navya26s/UNIT-2-/blob/main/CREATIVE%20COMPUTING-04.png)
 
 I even tried superimposing two images together by chosing an image of the uno board with an image of my final lit LED set up as my preffered style effect to edit the image with.
 
